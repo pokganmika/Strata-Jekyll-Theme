@@ -2649,7 +2649,7 @@ input[type="button"]:disabled,
 #header {
 	background-color: #1f1815;
 	background-attachment: scroll, fixed;
-	background-image: url("images/overlay.png"), url("../images/bg.jpg");
+	background-image: url("images/overlay.png"), url("../images/space.jpg");
 	background-position: top left, top left;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, auto 100%;
